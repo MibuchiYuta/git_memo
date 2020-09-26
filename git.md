@@ -1,7 +1,7 @@
-#GitおよびGithubの使い方メモ
+# GitおよびGithubの使い方メモ
 --
-##github
+## github
 
-##git
-  ###gitインストール方法
-  ###githubアカウントの連携からプッシュまで
+## git
+  ### gitインストール方法
+  ### githubアカウントの連携からプッシュまで
