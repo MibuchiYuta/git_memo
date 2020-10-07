@@ -56,5 +56,5 @@
 
 [リンクする場合](http://example.com/)。インラインコード → `<code>`。
 
-![画像。ココのテキストは Alt Text。](http://example.com/example.gif)
+![画像。ココのテキストは Alt Text。](https://twitter.com/Mibuchi_Yuta/header_photo)
 「
