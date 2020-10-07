@@ -52,7 +52,7 @@ return 0;
 }
 ````
 
-> 引用ブロック (blockquote)
+> 引用ブロック
 >
 > - 引用ブロック内にリストなどもかける
 
@@ -61,7 +61,7 @@ return 0;
 文章の*強調*(アスタリスクで囲む)  
 文章を**さらに強調** (アスタリスク二つで囲む)
 
-[リンクする場合](http://example.com/)。インラインコード → `<code>`。
+[web サイトなどリンクする場合](http://github.com)
 
 ![画像。ココのテキストは Alt Text。](https://twitter.com/Mibuchi_Yuta/header_photo)
 
