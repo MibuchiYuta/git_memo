@@ -66,3 +66,7 @@ return 0;
 ![画像。ココのテキストは Alt Text。](https://twitter.com/Mibuchi_Yuta/header_photo)
 
 グラフ
+
+| 左寄せ | 右寄せ | 中央揃え |
+| :----- | -----: | :------: |
+| 猫     |     猫 |    猫    |
