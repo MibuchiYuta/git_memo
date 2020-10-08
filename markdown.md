@@ -63,10 +63,14 @@ return 0;
 
 [web サイトなどリンクする場合](http://github.com)
 
-![画像。ココのテキストは Alt Text。](https://twitter.com/Mibuchi_Yuta/header_photo)
+![画像投稿. これは代替テキスト](https://twitter.com/Mibuchi_Yuta/header_photo)
 
 グラフ
 
 | 左寄せ | 右寄せ | 中央揃え |
 | :----- | -----: | :------: |
 | 猫     |     猫 |    猫    |
+
+twitter 埋め込み
+
+<blockquote class="twitter-tweet"><a href="https://twitter.com/Mibuchi_Yuta"/></blockquote>
