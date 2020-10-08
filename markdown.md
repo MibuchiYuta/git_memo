@@ -58,19 +58,36 @@ return 0;
 
 ---
 
-文章の*強調*(アスタリスクで囲む)  
-文章を**さらに強調** (アスタリスク二つで囲む)
+文章の*強調*  
+文章を**さらに強調**
+
+```
+文章の*強調*
+文章を**さらに強調**
+```
+
+```
+[web サイトなどリンクする場合](http://github.com)
+```
 
 [web サイトなどリンクする場合](http://github.com)
+
+```
+![画像投稿. これは代替テキスト](https://twitter.com/Mibuchi_Yuta/header_photo)
+```
 
 ![画像投稿. これは代替テキスト](https://twitter.com/Mibuchi_Yuta/header_photo)
 
 グラフ
+
+```
+| 左寄せ | 右寄せ | 中央揃え |
+| :----- | -----: | :------: |
+| 猫     |     猫 |    猫    |
+```
 
 | 左寄せ | 右寄せ | 中央揃え |
 | :----- | -----: | :------: |
 | 猫     |     猫 |    猫    |
 
 twitter 埋め込み
-
-<blockquote class="twitter-tweet"><a href="https://twitter.com/Mibuchi_Yuta"/></blockquote>
