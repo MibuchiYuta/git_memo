@@ -18,3 +18,6 @@ GitとGitHubに関しての自分用のメモ。初期設定の仕方を一部�
 
 - [Markdownチートシート](https://github.com/MibuchiYuta/git_memo/blob/master/github/markdown.md)
 - [HTMKチートシート](https://github.com/MibuchiYuta/git_memo/tree/master/github/html.md)
+
+### test
+citbrains 新人研修の過程でtest.txt作りました
