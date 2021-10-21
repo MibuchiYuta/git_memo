@@ -162,10 +162,10 @@ return 0;
 ## 画像
 
 ```md
-![Twitterヘッダー画像](https://pbs.twimg.com/profile_banners/744382483504848897/1582192796/1500x500)
+![Twitterヘッダー画像](https://twitter.com/Mibuchi_Yuta/header_photo)
 ```
 
-![Twitterヘッダー画像](https://pbs.twimg.com/profile_banners/744382483504848897/1582192796/1500x500)
+![Twitterヘッダー画像](https://twitter.com/Mibuchi_Yuta/header_photo)
 
 ---
 
