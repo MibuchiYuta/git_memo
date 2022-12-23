@@ -17,11 +17,11 @@ pbcopy < ~/.ssh/id_rsa
 ```bash
 vi ~/.ssh/config
 ```
-以下を入力する。# ssh key の部分に非公開鍵を貼り付ける。非公開鍵の1行目と最終行の----- から始まる文章は削除し、その他の鍵の改行は全て削除する。
+以下を入力する。
 ```
 Host github.com
   HostName ssh.github.com
-  IdentityFile # ssh key
+  IdentityFile ~/.ssh/id_rsa
   Port 443
   User git
 ```
