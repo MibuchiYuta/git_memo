@@ -1,5 +1,5 @@
 Host github.com
   HostName ssh.github.com
-  IdentityFile AAAAADDGHFHXIDUH966476TFytffKGYTUFEWOWWOJDNCIUDB74biJNIUHBufwe9847vb4g../中略/..96YGUHBJH8974vno9y8nGHJVYR764658w5TYFVYYCuky
+  IdentityFile ~/.ssh/id_rsa
   Port 443
   User git
