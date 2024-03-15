@@ -18,8 +18,10 @@ cd ~/.ssh/
 以下、色々聞かれるが基本的にEnter
 
 ```bash
-pbcopy < ~/.ssh/id_rsa.pub #公開鍵をコピー
+less ~/.ssh/id_rsa.pub
 ```
+開いたらコピー
+qキーでlessを閉じれる
 
 ### Githubに公開鍵を設定
 
