@@ -12,7 +12,6 @@ sudo apt install git
 
 ```bash
 ssh-keygen
-cd ~/.ssh/
 ```
 
 以下、色々聞かれるが基本的にEnter
